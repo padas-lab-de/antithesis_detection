@@ -1,0 +1,7 @@
+transformers==4.12.3
+tensorflow==2.5.0
+pandas
+scikit-learn
+nlpaug
+
+
